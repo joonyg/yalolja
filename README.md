@@ -4,6 +4,11 @@ Yalolja Project 소개
 2. 세부내용 : 주목 받고 있는 e-sports 종목이자, 게임인 LOL 구단의 유니폼을 추천받을 수 있음
 3. 개발기간 : 23.12.26 ~ 24.01.02 (5일)
 
+사이트
+-------
+
+![야롤자](https://github.com/joonyg/yalolja/assets/90684826/fc1420a5-7472-4422-a5a3-0dd4011c28dc)
+
 사용기술
 -------         
 * react  
