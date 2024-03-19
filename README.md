@@ -1,5 +1,11 @@
 # Yalolja Project 소개    
 
+### 사이트
+https://yalolja-omega.vercel.app/
+
+### 시연 영상
+https://www.youtube.com/watch?v=thD_Yfqu5Wg
+
 ![야롤자](https://github.com/joonyg/yalolja/assets/90684826/fc1420a5-7472-4422-a5a3-0dd4011c28dc)
 
 ### 개발기간  
