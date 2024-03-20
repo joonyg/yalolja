@@ -7,6 +7,9 @@
 ### 사이트
 https://yalolja-omega.vercel.app/
 
+### Main Repository
+[YALOLJA](https://github.com/zerotonine2da/yalolja)
+
 ### 시연 영상
 https://www.youtube.com/watch?v=thD_Yfqu5Wg
 
