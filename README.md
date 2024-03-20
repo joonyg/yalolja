@@ -6,7 +6,8 @@ https://yalolja-omega.vercel.app/
 ### 시연 영상
 https://www.youtube.com/watch?v=thD_Yfqu5Wg
 
-![야롤자](https://github.com/joonyg/yalolja/assets/90684826/fc1420a5-7472-4422-a5a3-0dd4011c28dc)
+
+![야롤자](https://github.com/joonyg/yalolja/assets/90684826/4ca98b46-5bbe-492f-a710-afac91be996b)
 
 ### 개발기간  
 - 23.12.26 ~ 24.01.02 (5일)
